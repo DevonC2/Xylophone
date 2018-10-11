@@ -9,3 +9,10 @@ Pro: Git clone to your Xcode projects folder.
 <img src="https://github.com/londonappbrewery/Images/blob/master/Xylophone.png" width="400">
 
 Copyright © London App Brewery
+
+Name: Devon Campbell
+
+User Id: devonc2
+
+Date Completed: October 11 2018
+
